@@ -1,0 +1,721 @@
+0000.001 (0) Opened log file at time: Mon, 29 Aug 2022 08:54:43 +0000 on http://localhost/site-metis/wordpress
+0000.033 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.18 WP: 6.0.1 PHP: 7.4.19 (apache2handler, Windows NT PC-KARIM 10.0 build 19044 (Windows 10) AMD64) MySQL: 5.7.33 (max packet size=536870912) WPLANG: en_US Server: Apache/2.4.47 (Win64) OpenSSL/1.1.1k PHP/7.4.19 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 87.8M | 8M) multisite: N openssl: OpenSSL 1.1.1k  25 Mar 2021 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.067 (0) Free space on disk containing Updraft's temporary directory: 171038.6 MB
+0000.109 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.166 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.299 (0) Set semaphore last lock (fd) time to 2022-08-29 08:54:44
+0000.333 (0) Semaphore lock (fd) complete
+0000.499 (0) Backup run: resumption=0, nonce=d5d74d0c04ea, file_nonce=d5d74d0c04ea begun at=1661763283 (1s ago), job type=backup
+0000.566 (0) Scheduling a resumption (1) after 473 seconds (1661763757) in case this run gets aborted
+0000.708 (0) Checking if we have a zip executable available
+0000.799 (0) Creation of backups of directories: beginning
+0000.944 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0038.825 (0) Total entities for the zip file: 2983 directories, 16687 files (0 skipped as non-modified), 220 MB
+0038.882 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0039.271 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 100 files added (on-disk size: 530.1 KB)
+0039.359 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 200 files added (on-disk size: 530.1 KB)
+0039.444 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 300 files added (on-disk size: 530.1 KB)
+0039.542 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 400 files added (on-disk size: 530.1 KB)
+0039.652 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 500 files added (on-disk size: 530.1 KB)
+0039.799 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 600 files added (on-disk size: 530.1 KB)
+0039.987 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 700 files added (on-disk size: 530.1 KB)
+0040.180 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 800 files added (on-disk size: 530.1 KB)
+0040.318 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 900 files added (on-disk size: 530.1 KB)
+0040.425 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 1000 files added (on-disk size: 530.1 KB)
+0040.490 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (18.1 MB, 16687 files batched, 1001 (1002) added so far); re-opening (prior size: 530.1 KB)
+0046.787 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 1100 files added (on-disk size: 5394.8 KB)
+0046.896 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 1200 files added (on-disk size: 5394.8 KB)
+0046.993 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 1300 files added (on-disk size: 5394.8 KB)
+0047.082 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 1400 files added (on-disk size: 5394.8 KB)
+0047.190 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 1500 files added (on-disk size: 5394.8 KB)
+0047.279 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 1600 files added (on-disk size: 5394.8 KB)
+0047.391 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 1700 files added (on-disk size: 5394.8 KB)
+0047.489 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 1800 files added (on-disk size: 5394.8 KB)
+0047.616 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 1900 files added (on-disk size: 5394.8 KB)
+0047.710 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 2000 files added (on-disk size: 5394.8 KB)
+0047.761 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (13.7 MB, 16687 files batched, 1001 (2003) added so far); re-opening (prior size: 5394.8 KB)
+0050.013 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 2100 files added (on-disk size: 11293 KB)
+0050.162 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 2200 files added (on-disk size: 11293 KB)
+0050.309 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 2300 files added (on-disk size: 11293 KB)
+0050.448 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 2400 files added (on-disk size: 11293 KB)
+0050.562 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 2500 files added (on-disk size: 11293 KB)
+0050.599 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.8 MB, 16687 files batched, 506 (2509) added so far); re-opening (prior size: 11293 KB)
+0067.335 (0) A useful amount of data was added after this amount of zip processing: 18 s (normalised: 17.5 s, rate: 1463 KB/s)
+0067.533 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 2600 files added (on-disk size: 18413 KB)
+0067.628 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 2700 files added (on-disk size: 18413 KB)
+0067.743 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 2800 files added (on-disk size: 18413 KB)
+0067.869 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 2900 files added (on-disk size: 18413 KB)
+0067.961 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 3000 files added (on-disk size: 18413 KB)
+0068.046 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 3100 files added (on-disk size: 18413 KB)
+0068.143 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 3200 files added (on-disk size: 18413 KB)
+0068.265 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 3300 files added (on-disk size: 18413 KB)
+0068.367 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 3400 files added (on-disk size: 18413 KB)
+0068.479 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 3500 files added (on-disk size: 18413 KB)
+0068.516 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (9.9 MB, 16687 files batched, 1001 (3510) added so far); re-opening (prior size: 18413 KB)
+0081.780 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 3600 files added (on-disk size: 21696.5 KB)
+0081.896 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 3700 files added (on-disk size: 21696.5 KB)
+0081.995 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 3800 files added (on-disk size: 21696.5 KB)
+0082.082 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 3900 files added (on-disk size: 21696.5 KB)
+0082.174 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 4000 files added (on-disk size: 21696.5 KB)
+0082.270 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 4100 files added (on-disk size: 21696.5 KB)
+0082.370 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 4200 files added (on-disk size: 21696.5 KB)
+0082.472 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 4300 files added (on-disk size: 21696.5 KB)
+0082.657 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 4400 files added (on-disk size: 21696.5 KB)
+0082.797 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 4500 files added (on-disk size: 21696.5 KB)
+0082.842 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.6 MB, 16687 files batched, 1001 (4511) added so far); re-opening (prior size: 21696.5 KB)
+0100.757 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 4600 files added (on-disk size: 25699.2 KB)
+0100.858 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 4700 files added (on-disk size: 25699.2 KB)
+0100.948 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 4800 files added (on-disk size: 25699.2 KB)
+0101.049 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 4900 files added (on-disk size: 25699.2 KB)
+0101.146 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 5000 files added (on-disk size: 25699.2 KB)
+0101.252 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 5100 files added (on-disk size: 25699.2 KB)
+0101.348 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 5200 files added (on-disk size: 25699.2 KB)
+0101.463 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 5300 files added (on-disk size: 25699.2 KB)
+0101.568 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 5400 files added (on-disk size: 25699.2 KB)
+0101.661 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 5500 files added (on-disk size: 25699.2 KB)
+0101.699 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (2.3 MB, 16687 files batched, 1001 (5512) added so far); re-opening (prior size: 25699.2 KB)
+0103.323 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 5600 files added (on-disk size: 26613.6 KB)
+0103.458 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 5700 files added (on-disk size: 26613.6 KB)
+0103.602 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 5800 files added (on-disk size: 26613.6 KB)
+0103.710 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 5900 files added (on-disk size: 26613.6 KB)
+0103.802 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 6000 files added (on-disk size: 26613.6 KB)
+0103.906 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 6100 files added (on-disk size: 26613.6 KB)
+0103.994 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 6200 files added (on-disk size: 26613.6 KB)
+0104.078 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 6300 files added (on-disk size: 26613.6 KB)
+0104.187 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 6400 files added (on-disk size: 26613.6 KB)
+0104.294 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 6500 files added (on-disk size: 26613.6 KB)
+0104.356 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (13.5 MB, 16687 files batched, 1001 (6513) added so far); re-opening (prior size: 26613.6 KB)
+0121.443 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 6600 files added (on-disk size: 34853.4 KB)
+0121.536 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 6700 files added (on-disk size: 34853.4 KB)
+0121.668 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 6800 files added (on-disk size: 34853.4 KB)
+0121.809 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 6900 files added (on-disk size: 34853.4 KB)
+0121.905 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 7000 files added (on-disk size: 34853.4 KB)
+0121.992 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 7100 files added (on-disk size: 34853.4 KB)
+0122.080 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 7200 files added (on-disk size: 34853.4 KB)
+0122.170 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 7300 files added (on-disk size: 34853.4 KB)
+0122.299 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 7400 files added (on-disk size: 34853.4 KB)
+0122.446 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 7500 files added (on-disk size: 34853.4 KB)
+0122.489 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (13.7 MB, 16687 files batched, 1001 (7514) added so far); re-opening (prior size: 34853.4 KB)
+0149.290 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 7600 files added (on-disk size: 39534.3 KB)
+0149.523 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 7700 files added (on-disk size: 39534.3 KB)
+0149.635 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 7800 files added (on-disk size: 39534.3 KB)
+0149.723 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 7900 files added (on-disk size: 39534.3 KB)
+0149.821 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 8000 files added (on-disk size: 39534.3 KB)
+0149.954 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 8100 files added (on-disk size: 39534.3 KB)
+0150.069 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 8200 files added (on-disk size: 39534.3 KB)
+0150.214 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 8300 files added (on-disk size: 39534.3 KB)
+0150.314 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 8400 files added (on-disk size: 39534.3 KB)
+0150.474 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 8500 files added (on-disk size: 39534.3 KB)
+0150.523 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (14.3 MB, 16687 files batched, 1001 (8515) added so far); re-opening (prior size: 39534.3 KB)
+0168.890 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 8600 files added (on-disk size: 43877.9 KB)
+0169.022 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 8700 files added (on-disk size: 43877.9 KB)
+0169.159 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 8800 files added (on-disk size: 43877.9 KB)
+0169.302 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 8900 files added (on-disk size: 43877.9 KB)
+0169.425 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 9000 files added (on-disk size: 43877.9 KB)
+0169.551 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 9100 files added (on-disk size: 43877.9 KB)
+0169.858 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 9200 files added (on-disk size: 43877.9 KB)
+0170.007 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 9300 files added (on-disk size: 43877.9 KB)
+0170.110 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 9400 files added (on-disk size: 43877.9 KB)
+0170.199 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 9500 files added (on-disk size: 43877.9 KB)
+0170.244 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.8 MB, 16687 files batched, 1001 (9516) added so far); re-opening (prior size: 43877.9 KB)
+0182.008 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 9600 files added (on-disk size: 45263.1 KB)
+0182.109 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 9700 files added (on-disk size: 45263.1 KB)
+0182.199 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 9800 files added (on-disk size: 45263.1 KB)
+0182.281 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 9900 files added (on-disk size: 45263.1 KB)
+0182.366 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 10000 files added (on-disk size: 45263.1 KB)
+0182.516 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 10100 files added (on-disk size: 45263.1 KB)
+0182.612 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 10200 files added (on-disk size: 45263.1 KB)
+0182.712 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 10300 files added (on-disk size: 45263.1 KB)
+0182.836 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 10400 files added (on-disk size: 45263.1 KB)
+0182.961 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 10500 files added (on-disk size: 45263.1 KB)
+0183.013 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (2.7 MB, 16687 files batched, 1001 (10517) added so far); re-opening (prior size: 45263.1 KB)
+0196.992 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 10600 files added (on-disk size: 46262.1 KB)
+0197.132 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 10700 files added (on-disk size: 46262.1 KB)
+0197.272 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 10800 files added (on-disk size: 46262.1 KB)
+0197.419 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 10900 files added (on-disk size: 46262.1 KB)
+0197.553 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 11000 files added (on-disk size: 46262.1 KB)
+0197.703 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 11100 files added (on-disk size: 46262.1 KB)
+0197.839 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 11200 files added (on-disk size: 46262.1 KB)
+0197.967 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 11300 files added (on-disk size: 46262.1 KB)
+0198.122 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 11400 files added (on-disk size: 46262.1 KB)
+0198.312 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 11500 files added (on-disk size: 46262.1 KB)
+0198.383 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (4.8 MB, 16687 files batched, 1001 (11518) added so far); re-opening (prior size: 46262.1 KB)
+0218.434 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 11600 files added (on-disk size: 48823.6 KB)
+0218.534 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 11700 files added (on-disk size: 48823.6 KB)
+0218.730 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 11800 files added (on-disk size: 48823.6 KB)
+0218.853 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 11900 files added (on-disk size: 48823.6 KB)
+0218.958 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 12000 files added (on-disk size: 48823.6 KB)
+0219.370 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 12100 files added (on-disk size: 48823.6 KB)
+0219.502 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 12200 files added (on-disk size: 48823.6 KB)
+0219.604 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 12300 files added (on-disk size: 48823.6 KB)
+0219.714 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 12400 files added (on-disk size: 48823.6 KB)
+0219.807 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 12500 files added (on-disk size: 48823.6 KB)
+0219.845 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (18.2 MB, 16687 files batched, 1001 (12519) added so far); re-opening (prior size: 48823.6 KB)
+0239.852 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 12600 files added (on-disk size: 56052.8 KB)
+0239.963 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 12700 files added (on-disk size: 56052.8 KB)
+0240.071 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 12800 files added (on-disk size: 56052.8 KB)
+0240.170 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 12900 files added (on-disk size: 56052.8 KB)
+0240.297 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 13000 files added (on-disk size: 56052.8 KB)
+0240.405 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 13100 files added (on-disk size: 56052.8 KB)
+0240.594 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 13200 files added (on-disk size: 56052.8 KB)
+0240.683 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 13300 files added (on-disk size: 56052.8 KB)
+0240.774 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 13400 files added (on-disk size: 56052.8 KB)
+0240.885 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 13500 files added (on-disk size: 56052.8 KB)
+0240.929 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (13.8 MB, 16687 files batched, 1001 (13520) added so far); re-opening (prior size: 56052.8 KB)
+0265.898 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 13600 files added (on-disk size: 62724.6 KB)
+0265.987 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 13700 files added (on-disk size: 62724.6 KB)
+0266.098 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 13800 files added (on-disk size: 62724.6 KB)
+0266.217 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 13900 files added (on-disk size: 62724.6 KB)
+0266.357 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 14000 files added (on-disk size: 62724.6 KB)
+0266.460 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 14100 files added (on-disk size: 62724.6 KB)
+0266.568 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 14200 files added (on-disk size: 62724.6 KB)
+0266.676 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 14300 files added (on-disk size: 62724.6 KB)
+0266.865 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 14400 files added (on-disk size: 62724.6 KB)
+0266.956 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 14500 files added (on-disk size: 62724.6 KB)
+0267.005 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (23.5 MB, 16687 files batched, 1001 (14521) added so far); re-opening (prior size: 62724.6 KB)
+0294.114 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 14600 files added (on-disk size: 69245.2 KB)
+0294.229 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 14700 files added (on-disk size: 69245.2 KB)
+0294.350 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 14800 files added (on-disk size: 69245.2 KB)
+0294.476 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 14900 files added (on-disk size: 69245.2 KB)
+0294.600 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 15000 files added (on-disk size: 69245.2 KB)
+0294.703 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 15100 files added (on-disk size: 69245.2 KB)
+0294.876 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 15200 files added (on-disk size: 69245.2 KB)
+0295.001 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 15300 files added (on-disk size: 69245.2 KB)
+0295.256 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 15400 files added (on-disk size: 69245.2 KB)
+0295.458 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 15500 files added (on-disk size: 69245.2 KB)
+0295.519 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.3 MB, 16687 files batched, 1001 (15522) added so far); re-opening (prior size: 69245.2 KB)
+0323.054 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 15600 files added (on-disk size: 72926.7 KB)
+0323.134 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 15700 files added (on-disk size: 72926.7 KB)
+0323.229 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 15800 files added (on-disk size: 72926.7 KB)
+0323.328 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 15900 files added (on-disk size: 72926.7 KB)
+0323.458 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 16000 files added (on-disk size: 72926.7 KB)
+0323.596 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 16100 files added (on-disk size: 72926.7 KB)
+0323.721 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 16200 files added (on-disk size: 72926.7 KB)
+0323.832 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 16300 files added (on-disk size: 72926.7 KB)
+0323.940 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 16400 files added (on-disk size: 72926.7 KB)
+0324.048 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 16500 files added (on-disk size: 72926.7 KB)
+0324.104 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (14 MB, 16687 files batched, 1001 (16523) added so far); re-opening (prior size: 72926.7 KB)
+0343.998 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.tmp: 16600 files added (on-disk size: 79540.5 KB)
+0350.361 (0) Creating zip file manifest (backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.list-temp.tmp)
+0350.499 (0) Successfully created zip file manifest (size: 1438507)
+0351.667 (0) Created plugins zip (0) - 80179 KB in 350.7 s (228.7 KB/s) (sha1: ea67011b7ebe30378fdc75d069bbcc0e732fb4ed, sha256: afaa703f9712c64ce901205a4b6527b32e6641082738c08e1c6de2ec9229a80c)
+0351.766 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0351.788 (0) No remote despatch: user chose no remote backup service
+0351.810 (0) Recording as successfully uploaded: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip
+0351.910 (0) Deleting zip manifest (backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip.list.tmp)
+0351.966 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0351.990 (0) Number of backup sets in history: 1; groups (db): 1
+0352.010 (0) Examining (for databases) backup set with group_id=0, nonce=4901937597dc, datestamp=1661713363 (Aug 28 2022 19:02:43)
+0352.057 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0352.077 (0) Number of backup sets in history: 1; groups (files): 1
+0352.100 (0) Examining (for files) backup set with nonce=4901937597dc, datestamp=1661713363 (Aug 28 2022 19:02:43)
+0352.100 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0352.121 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0352.255 (0) Beginning creation of dump of themes (split every: 400 MB)
+0365.224 (0) Total entities for the zip file: 1339 directories, 6304 files (0 skipped as non-modified), 110.4 MB
+0365.273 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0365.487 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 100 files added (on-disk size: 235.3 KB)
+0365.575 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 200 files added (on-disk size: 235.3 KB)
+0365.692 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 300 files added (on-disk size: 235.3 KB)
+0365.770 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 400 files added (on-disk size: 235.3 KB)
+0365.849 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 500 files added (on-disk size: 235.3 KB)
+0365.938 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 600 files added (on-disk size: 235.3 KB)
+0366.028 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 700 files added (on-disk size: 235.3 KB)
+0366.099 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 6304 files batched, 784 (785) added so far); re-opening (prior size: 235.3 KB)
+0389.289 (0) A useful amount of data was added after this amount of zip processing: 24 s (normalised: 24 s, rate: 1066.9 KB/s)
+0389.344 (0) Performance is good - will increase the amount of data we attempt to batch (time=23.994122028351, normalised_time=23.993928900948, max_time=389.309497118, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0389.441 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 800 files added (on-disk size: 7378.8 KB)
+0389.523 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 900 files added (on-disk size: 7378.8 KB)
+0389.640 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 1000 files added (on-disk size: 7378.8 KB)
+0389.776 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 1100 files added (on-disk size: 7378.8 KB)
+0389.865 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 1200 files added (on-disk size: 7378.8 KB)
+0389.990 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 1300 files added (on-disk size: 7378.8 KB)
+0390.115 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 1400 files added (on-disk size: 7378.8 KB)
+0390.242 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 1500 files added (on-disk size: 7378.8 KB)
+0390.338 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 1600 files added (on-disk size: 7378.8 KB)
+0390.437 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 1700 files added (on-disk size: 7378.8 KB)
+0390.540 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (20 MB, 6304 files batched, 1001 (1786) added so far); re-opening (prior size: 7378.8 KB)
+0417.131 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 1800 files added (on-disk size: 17998 KB)
+0417.207 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 1900 files added (on-disk size: 17998 KB)
+0417.306 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 2000 files added (on-disk size: 17998 KB)
+0417.406 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 2100 files added (on-disk size: 17998 KB)
+0417.502 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 2200 files added (on-disk size: 17998 KB)
+0417.595 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 2300 files added (on-disk size: 17998 KB)
+0417.769 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 2400 files added (on-disk size: 17998 KB)
+0417.869 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 2500 files added (on-disk size: 17998 KB)
+0417.965 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 2600 files added (on-disk size: 17998 KB)
+0418.071 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 2700 files added (on-disk size: 17998 KB)
+0418.153 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (15.6 MB, 6304 files batched, 1001 (2787) added so far); re-opening (prior size: 17998 KB)
+0442.500 (0) The scheduled resumption is within 45 seconds - will reschedule
+0442.544 (0) Rescheduling resumption 1: moving to 518 seconds from now (1661764244)
+0442.633 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 473 + 45 = 518
+0442.729 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 2800 files added (on-disk size: 23071.8 KB)
+0442.820 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 2900 files added (on-disk size: 23071.8 KB)
+0442.941 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 3000 files added (on-disk size: 23071.8 KB)
+0443.052 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 3100 files added (on-disk size: 23071.8 KB)
+0443.151 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 3200 files added (on-disk size: 23071.8 KB)
+0443.250 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 3300 files added (on-disk size: 23071.8 KB)
+0443.350 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 3400 files added (on-disk size: 23071.8 KB)
+0443.457 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 3500 files added (on-disk size: 23071.8 KB)
+0443.544 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 3600 files added (on-disk size: 23071.8 KB)
+0443.640 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 3700 files added (on-disk size: 23071.8 KB)
+0443.729 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (26 MB, 6304 files batched, 1001 (3788) added so far); re-opening (prior size: 23071.8 KB)
+0465.130 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 3800 files added (on-disk size: 33052.2 KB)
+0465.231 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 3900 files added (on-disk size: 33052.2 KB)
+0465.339 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 4000 files added (on-disk size: 33052.2 KB)
+0465.446 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 4100 files added (on-disk size: 33052.2 KB)
+0465.541 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 4200 files added (on-disk size: 33052.2 KB)
+0465.645 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 4300 files added (on-disk size: 33052.2 KB)
+0465.762 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 4400 files added (on-disk size: 33052.2 KB)
+0465.863 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 4500 files added (on-disk size: 33052.2 KB)
+0465.980 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 4600 files added (on-disk size: 33052.2 KB)
+0466.090 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 4700 files added (on-disk size: 33052.2 KB)
+0466.199 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (4.8 MB, 6304 files batched, 1001 (4789) added so far); re-opening (prior size: 33052.2 KB)
+0487.133 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 4800 files added (on-disk size: 35528 KB)
+0487.235 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 4900 files added (on-disk size: 35528 KB)
+0487.345 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 5000 files added (on-disk size: 35528 KB)
+0487.483 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 5100 files added (on-disk size: 35528 KB)
+0487.617 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 5200 files added (on-disk size: 35528 KB)
+0487.721 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 5300 files added (on-disk size: 35528 KB)
+0487.853 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 5400 files added (on-disk size: 35528 KB)
+0488.013 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 5500 files added (on-disk size: 35528 KB)
+0488.143 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 5600 files added (on-disk size: 35528 KB)
+0488.291 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 5700 files added (on-disk size: 35528 KB)
+0488.392 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (3.9 MB, 6304 files batched, 1001 (5790) added so far); re-opening (prior size: 35528 KB)
+0510.944 (0) The time we have been running (510.8) is approaching the resumption interval (518) - increasing resumption interval to 541
+0511.117 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 5800 files added (on-disk size: 36961.2 KB)
+0511.217 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 5900 files added (on-disk size: 36961.2 KB)
+0511.318 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 6000 files added (on-disk size: 36961.2 KB)
+0511.429 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 6100 files added (on-disk size: 36961.2 KB)
+0511.561 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 6200 files added (on-disk size: 36961.2 KB)
+0511.651 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.tmp: 6300 files added (on-disk size: 36961.2 KB)
+0527.977 (0) The time we have been running (527.9) is approaching the resumption interval (541) - increasing resumption interval to 558
+0528.128 (0) Creating zip file manifest (backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.list-temp.tmp)
+0528.191 (0) Successfully created zip file manifest (size: 557622)
+0529.044 (0) Created themes zip (0) - 48861.1 KB in 176.7 s (276.5 KB/s) (sha1: 49f68e7de7e4062b70232182fe514be7a211d72b, sha256: 6163a345a35c33daef2e464288ca3654867277db695b580e3a4f0e747acbce57)
+0529.155 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0529.188 (0) No remote despatch: user chose no remote backup service
+0529.222 (0) Recording as successfully uploaded: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip
+0529.322 (0) Deleting zip manifest (backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip.list.tmp)
+0529.400 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0529.433 (0) Number of backup sets in history: 1; groups (db): 1
+0529.466 (0) Examining (for databases) backup set with group_id=0, nonce=4901937597dc, datestamp=1661713363 (Aug 28 2022 19:02:43)
+0529.499 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0529.533 (0) Number of backup sets in history: 1; groups (files): 1
+0529.577 (0) Examining (for files) backup set with nonce=4901937597dc, datestamp=1661713363 (Aug 28 2022 19:02:43)
+0529.577 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0529.611 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0529.822 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0529.866 (0) Looking for candidates to backup in: C:\laragon\www\site-metis\wordpress/wp-content/uploads
+0529.900 (0) finding files: 2012: adding to list (1)
+0529.933 (0) finding files: 2016: adding to list (2)
+0529.966 (0) finding files: 2022: adding to list (3)
+0530.000 (0) finding files: elementor: adding to list (4)
+0530.033 (0) finding files: mailpoet: adding to list (5)
+0530.066 (0) finding files: master-slider: adding to list (6)
+0530.099 (0) finding files: oceanwp: adding to list (7)
+0530.133 (0) finding files: oceanwp-webfonts: adding to list (8)
+0530.166 (0) finding files: oceanwp-webfonts-css: adding to list (9)
+0530.200 (0) finding files: ur-logs: adding to list (10)
+0530.266 (0) finding files: user_registration_uploads: adding to list (11)
+0530.300 (0) finding files: wpforms: adding to list (12)
+0530.333 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0530.989 (0) Total entities for the zip file: 20 directories, 421 files (0 skipped as non-modified), 51.9 MB
+0531.109 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0531.229 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0531.340 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0531.441 (0) Zip: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0544.321 (0) The time we have been running (544.2) is approaching the resumption interval (558) - increasing resumption interval to 575
+0544.428 (0) Creating zip file manifest (backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-uploads.zip.list-temp.tmp)
+0544.475 (0) Successfully created zip file manifest (size: 24083)
+0545.333 (0) Created uploads zip (0) - 52617.1 KB in 15 s (3517.8 KB/s) (sha1: 6f8bdc8163b4fb4ed8ebeffcfa9c4de0d7a6db7c, sha256: 20d63716a4a1fb69ad28fe120b8e9e143a1b3569ea6febeab1057903003afe7a)
+0545.466 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0545.510 (0) No remote despatch: user chose no remote backup service
+0545.544 (0) Recording as successfully uploaded: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-uploads.zip
+0545.611 (0) Deleting zip manifest (backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-uploads.zip.list.tmp)
+0545.678 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0545.721 (0) Number of backup sets in history: 1; groups (db): 1
+0545.755 (0) Examining (for databases) backup set with group_id=0, nonce=4901937597dc, datestamp=1661713363 (Aug 28 2022 19:02:43)
+0545.788 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0545.822 (0) Number of backup sets in history: 1; groups (files): 1
+0545.855 (0) Examining (for files) backup set with nonce=4901937597dc, datestamp=1661713363 (Aug 28 2022 19:02:43)
+0545.855 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0545.888 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0546.088 (0) Beginning backup of other directories found in the content directory (index: 0)
+0546.122 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0546.155 (0) Looking for candidates to backup in: C:\laragon\www\site-metis\wordpress/wp-content
+0546.200 (0) finding files: index.php: adding to list (1)
+0546.254 (0) finding files: plugins: skipping: this is the plugins directory
+0546.311 (0) finding files: themes: skipping: this is the themes directory
+0546.377 (0) finding files: updraft: skipping: this is the updraft directory
+0546.444 (0) finding files: upgrade: skipping: excluded by options
+0546.488 (0) finding files: uploads: skipping: this is the uploads directory
+0546.571 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0546.743 (0) The time we have been running (546.6) is approaching the resumption interval (575) - increasing resumption interval to 577
+0546.811 (0) Creating zip file manifest (backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-others.zip.list-temp.tmp)
+0546.856 (0) Successfully created zip file manifest (size: 43)
+0546.956 (0) Created others zip (0) - 0.1 KB in 0.4 s (0.3 KB/s) (sha1: f7a2584358a0c2a342857ab1daf212d9665682a2, sha256: 18df3aeb04df3b8787049d096ce0834aca41b3231b71d792dddbd962a8f2cb27)
+0547.077 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0547.110 (0) No remote despatch: user chose no remote backup service
+0547.144 (0) Recording as successfully uploaded: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-others.zip
+0547.211 (0) Deleting zip manifest (backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-others.zip.list.tmp)
+0547.289 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0547.334 (0) Number of backup sets in history: 1; groups (db): 1
+0547.366 (0) Examining (for databases) backup set with group_id=0, nonce=4901937597dc, datestamp=1661713363 (Aug 28 2022 19:02:43)
+0547.367 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0547.399 (0) Number of backup sets in history: 1; groups (files): 1
+0547.510 (0) Examining (for files) backup set with nonce=4901937597dc, datestamp=1661713363 (Aug 28 2022 19:02:43)
+0547.510 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0547.555 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0547.910 (0) Saving backup status to database (elements: 8)
+0547.988 (0) Beginning creation of database dump (WordPress DB)
+0548.022 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0549.533 (0) Table wp_options: Total expected rows (via COUNT): 366
+0549.569 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0549.704 (0) Table wp_options: Rows added in this batch (next record: 2358): 360 (uncompressed bytes in this segment=1051913) in 0.34 seconds
+0549.899 (0) The time we have been running (549.8) is approaching the resumption interval (577) - increasing resumption interval to 580
+0549.997 (0) Table wp_options: finishing file(s) (2, 120.9 KB)
+0550.096 (0) Table wp_users: Total expected rows (via COUNT): 2
+0550.133 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0550.200 (0) Table wp_users: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=1572) in 0.14 seconds
+0550.299 (0) The time we have been running (550.2) is approaching the resumption interval (580) - increasing resumption interval to 581
+0550.548 (0) Table wp_users: finishing file(s) (2, 0.7 KB)
+0550.736 (0) Table wp_usermeta: Total expected rows (via COUNT): 44
+0550.766 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0550.834 (0) Table wp_usermeta: Rows added in this batch (next record: 60): 44 (uncompressed bytes in this segment=3816) in 0.13 seconds
+0550.980 (0) Table wp_usermeta: finishing file(s) (2, 1.6 KB)
+0551.110 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 130
+0551.144 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0551.235 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 193): 130 (uncompressed bytes in this segment=61107) in 0.17 seconds
+0551.399 (0) The time we have been running (551.3) is approaching the resumption interval (581) - increasing resumption interval to 582
+0551.540 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 4.6 KB)
+0551.628 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0551.712 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.09 seconds
+0551.845 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0551.931 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 3
+0551.966 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0552.042 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=729) in 0.11 seconds
+0552.143 (0) The time we have been running (552.1) is approaching the resumption interval (582) - increasing resumption interval to 583
+0552.249 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0552.329 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 378
+0552.354 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0552.420 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 384): 378 (uncompressed bytes in this segment=33367) in 0.09 seconds
+0552.636 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 3.9 KB)
+0552.766 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0552.833 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=685) in 0.11 seconds
+0552.978 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0553.083 (0) Table wp_comments: Total expected rows (via COUNT): 4
+0553.161 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0553.226 (0) Table wp_comments: Rows added in this batch (next record: 6): 4 (uncompressed bytes in this segment=2891) in 0.15 seconds
+0553.344 (0) The time we have been running (553.3) is approaching the resumption interval (583) - increasing resumption interval to 584
+0553.434 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0553.581 (0) Table wp_links: Total expected rows (via COUNT): 0
+0553.655 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1310) in 0.08 seconds
+0553.779 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0553.888 (0) Table wp_postmeta: Total expected rows (approximate): 2311
+0554.079 (0) Table wp_postmeta: Rows added in this batch (next record: 2169): 2019 (uncompressed bytes in this segment=2108488) in 0.23 seconds
+0554.322 (0) The time we have been running (554.2) is approaching the resumption interval (584) - increasing resumption interval to 585
+0554.559 (0) Table wp_postmeta: finishing file(s) (2, 131.7 KB)
+0554.811 (0) Table wp_posts: Total expected rows (via COUNT): 395
+0554.844 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0554.971 (0) Table wp_posts: Rows added in this batch (next record: 984): 395 (uncompressed bytes in this segment=1088102) in 0.28 seconds
+0555.132 (0) The time we have been running (555) is approaching the resumption interval (585) - increasing resumption interval to 586
+0555.211 (0) Table wp_posts: finishing file(s) (2, 76 KB)
+0555.262 (0) Table wp_term_relationships: Total expected rows (approximate): 87
+0555.391 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 87 (uncompressed bytes in this segment=1946) in 0.13 seconds
+0555.533 (0) Table wp_term_relationships: finishing file(s) (2, 0.6 KB)
+0555.632 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 26
+0555.655 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0555.701 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 26): 26 (uncompressed bytes in this segment=1777) in 0.10 seconds
+0555.967 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.7 KB)
+0556.055 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0556.111 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=658) in 0.09 seconds
+0556.266 (0) The time we have been running (556.2) is approaching the resumption interval (586) - increasing resumption interval to 587
+0556.345 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0556.396 (0) Table wp_terms: Total expected rows (via COUNT): 26
+0556.422 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0556.468 (0) Table wp_terms: Rows added in this batch (next record: 26): 26 (uncompressed bytes in this segment=1555) in 0.07 seconds
+0556.589 (0) Table wp_terms: finishing file(s) (2, 0.7 KB)
+0556.742 (0) Table wp_e_events: Total expected rows (via COUNT): 1
+0556.844 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0556.889 (0) Table wp_e_events: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=791) in 0.15 seconds
+0557.000 (0) Table wp_e_events: finishing file(s) (2, 0.5 KB)
+0557.156 (0) Table wp_mailpoet_custom_fields: Total expected rows (via COUNT): 0
+0557.288 (0) Table wp_mailpoet_custom_fields: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=831) in 0.17 seconds
+0557.443 (0) The time we have been running (557.3) is approaching the resumption interval (587) - increasing resumption interval to 588
+0557.580 (0) Table wp_mailpoet_custom_fields: finishing file(s) (2, 0.4 KB)
+0557.684 (0) Table wp_mailpoet_dynamic_segment_filters: Total expected rows (via COUNT): 0
+0557.710 (0) Table wp_mailpoet_dynamic_segment_filters: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=922) in 0.03 seconds
+0557.797 (0) Table wp_mailpoet_dynamic_segment_filters: finishing file(s) (2, 0.4 KB)
+0557.876 (0) Table wp_mailpoet_feature_flags: Total expected rows (via COUNT): 0
+0557.924 (0) Table wp_mailpoet_feature_flags: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=744) in 0.06 seconds
+0558.000 (0) Table wp_mailpoet_feature_flags: finishing file(s) (2, 0.4 KB)
+0558.077 (0) Table wp_mailpoet_forms: Total expected rows (via COUNT): 0
+0558.101 (0) Table wp_mailpoet_forms: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=912) in 0.05 seconds
+0558.211 (0) The time we have been running (558.1) is approaching the resumption interval (588) - increasing resumption interval to 589
+0558.302 (0) Table wp_mailpoet_forms: finishing file(s) (2, 0.4 KB)
+0558.487 (0) Table wp_mailpoet_log: Total expected rows (via COUNT): 0
+0558.553 (0) Table wp_mailpoet_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=635) in 0.11 seconds
+0558.666 (0) Table wp_mailpoet_log: finishing file(s) (2, 0.4 KB)
+0558.788 (0) Table wp_mailpoet_newsletter_links: Total expected rows (via COUNT): 0
+0558.811 (0) Table wp_mailpoet_newsletter_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=942) in 0.02 seconds
+0558.881 (0) Table wp_mailpoet_newsletter_links: finishing file(s) (2, 0.4 KB)
+0558.991 (0) Table wp_mailpoet_newsletter_option: Total expected rows (via COUNT): 0
+0559.022 (0) Table wp_mailpoet_newsletter_option: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=865) in 0.09 seconds
+0559.155 (0) The time we have been running (559.1) is approaching the resumption interval (589) - increasing resumption interval to 590
+0559.234 (0) Table wp_mailpoet_newsletter_option: finishing file(s) (2, 0.4 KB)
+0559.295 (0) Table wp_mailpoet_newsletter_option_fields: Total expected rows (via COUNT): 24
+0559.322 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0559.368 (0) Table wp_mailpoet_newsletter_option_fields: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=2522) in 0.08 seconds
+0559.496 (0) Table wp_mailpoet_newsletter_option_fields: finishing file(s) (2, 0.7 KB)
+0559.668 (0) Table wp_mailpoet_newsletter_posts: Total expected rows (via COUNT): 0
+0559.711 (0) Table wp_mailpoet_newsletter_posts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=759) in 0.05 seconds
+0559.824 (0) Table wp_mailpoet_newsletter_posts: finishing file(s) (2, 0.4 KB)
+0559.994 (0) Table wp_mailpoet_newsletter_segment: Total expected rows (via COUNT): 0
+0560.034 (0) Table wp_mailpoet_newsletter_segment: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=799) in 0.04 seconds
+0560.143 (0) The time we have been running (560.1) is approaching the resumption interval (590) - increasing resumption interval to 591
+0560.236 (0) Table wp_mailpoet_newsletter_segment: finishing file(s) (2, 0.4 KB)
+0560.514 (0) Table wp_mailpoet_newsletter_templates: Total expected rows (via COUNT): 76
+0560.579 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0560.853 (0) Table wp_mailpoet_newsletter_templates: Rows added in this batch (next record: 76): 76 (uncompressed bytes in this segment=1122599) in 0.45 seconds
+0561.024 (0) Table wp_mailpoet_newsletter_templates: finishing file(s) (2, 67.1 KB)
+0561.177 (0) Table wp_mailpoet_newsletters: Total expected rows (via COUNT): 0
+0561.309 (0) Table wp_mailpoet_newsletters: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1754) in 0.22 seconds
+0561.611 (0) The time we have been running (561.4) is approaching the resumption interval (591) - increasing resumption interval to 592
+0561.756 (0) Table wp_mailpoet_newsletters: finishing file(s) (2, 0.6 KB)
+0561.831 (0) Table wp_mailpoet_scheduled_task_subscribers: Total expected rows (approximate): 0
+0561.885 (0) Table wp_mailpoet_scheduled_task_subscribers: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=914) in 0.06 seconds
+0562.000 (0) Table wp_mailpoet_scheduled_task_subscribers: finishing file(s) (2, 0.4 KB)
+0562.132 (0) Table wp_mailpoet_scheduled_tasks: Total expected rows (via COUNT): 16
+0562.177 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0562.246 (0) Table wp_mailpoet_scheduled_tasks: Rows added in this batch (next record: 16): 16 (uncompressed bytes in this segment=3749) in 0.16 seconds
+0562.433 (0) The time we have been running (562.3) is approaching the resumption interval (592) - increasing resumption interval to 593
+0562.559 (0) Table wp_mailpoet_scheduled_tasks: finishing file(s) (2, 1 KB)
+0562.840 (0) Table wp_mailpoet_segments: Total expected rows (via COUNT): 3
+0562.899 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0562.933 (0) Table wp_mailpoet_segments: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=1652) in 0.11 seconds
+0563.088 (0) The time we have been running (563) is approaching the resumption interval (593) - increasing resumption interval to 594
+0563.157 (0) Table wp_mailpoet_segments: finishing file(s) (2, 0.7 KB)
+0563.277 (0) Table wp_mailpoet_sending_queues: Total expected rows (via COUNT): 0
+0563.345 (0) Table wp_mailpoet_sending_queues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1261) in 0.10 seconds
+0563.514 (0) Table wp_mailpoet_sending_queues: finishing file(s) (2, 0.5 KB)
+0563.644 (0) Table wp_mailpoet_settings: Total expected rows (via COUNT): 15
+0563.677 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0563.745 (0) Table wp_mailpoet_settings: Rows added in this batch (next record: 20): 15 (uncompressed bytes in this segment=3139) in 0.13 seconds
+0563.891 (0) Table wp_mailpoet_settings: finishing file(s) (2, 1.2 KB)
+0564.056 (0) Table wp_mailpoet_statistics_bounces: Total expected rows (via COUNT): 0
+0564.122 (0) Table wp_mailpoet_statistics_bounces: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=704) in 0.07 seconds
+0564.310 (0) The time we have been running (564.2) is approaching the resumption interval (594) - increasing resumption interval to 595
+0564.426 (0) Table wp_mailpoet_statistics_bounces: finishing file(s) (2, 0.4 KB)
+0564.677 (0) Table wp_mailpoet_statistics_clicks: Total expected rows (via COUNT): 0
+0564.718 (0) Table wp_mailpoet_statistics_clicks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1125) in 0.04 seconds
+0564.809 (0) Table wp_mailpoet_statistics_clicks: finishing file(s) (2, 0.5 KB)
+0564.943 (0) Table wp_mailpoet_statistics_forms: Total expected rows (via COUNT): 0
+0564.977 (0) Table wp_mailpoet_statistics_forms: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=706) in 0.04 seconds
+0565.121 (0) The time we have been running (565) is approaching the resumption interval (595) - increasing resumption interval to 596
+0565.219 (0) Table wp_mailpoet_statistics_forms: finishing file(s) (2, 0.4 KB)
+0565.396 (0) Table wp_mailpoet_statistics_newsletters: Total expected rows (via COUNT): 0
+0565.514 (0) Table wp_mailpoet_statistics_newsletters: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=831) in 0.12 seconds
+0565.634 (0) Table wp_mailpoet_statistics_newsletters: finishing file(s) (2, 0.4 KB)
+0565.796 (0) Table wp_mailpoet_statistics_opens: Total expected rows (via COUNT): 0
+0565.846 (0) Table wp_mailpoet_statistics_opens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1071) in 0.05 seconds
+0565.968 (0) Table wp_mailpoet_statistics_opens: finishing file(s) (2, 0.5 KB)
+0566.090 (0) Table wp_mailpoet_statistics_unsubscribes: Total expected rows (via COUNT): 0
+0566.119 (0) Table wp_mailpoet_statistics_unsubscribes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1026) in 0.03 seconds
+0566.244 (0) The time we have been running (566.1) is approaching the resumption interval (596) - increasing resumption interval to 597
+0566.346 (0) Table wp_mailpoet_statistics_unsubscribes: finishing file(s) (2, 0.5 KB)
+0566.506 (0) Table wp_mailpoet_statistics_woocommerce_purchases: Total expected rows (via COUNT): 0
+0566.553 (0) Table wp_mailpoet_statistics_woocommerce_purchases: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1272) in 0.05 seconds
+0566.737 (0) Table wp_mailpoet_statistics_woocommerce_purchases: finishing file(s) (2, 0.5 KB)
+0566.883 (0) Table wp_mailpoet_stats_notifications: Total expected rows (via COUNT): 0
+0566.921 (0) Table wp_mailpoet_stats_notifications: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=831) in 0.05 seconds
+0567.144 (0) The time we have been running (567) is approaching the resumption interval (597) - increasing resumption interval to 598
+0567.212 (0) Table wp_mailpoet_stats_notifications: finishing file(s) (2, 0.4 KB)
+0567.345 (0) Table wp_mailpoet_subscriber_custom_field: Total expected rows (via COUNT): 0
+0567.388 (0) Table wp_mailpoet_subscriber_custom_field: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=906) in 0.04 seconds
+0567.500 (0) Table wp_mailpoet_subscriber_custom_field: finishing file(s) (2, 0.4 KB)
+0567.648 (0) Table wp_mailpoet_subscriber_ips: Total expected rows (approximate): 0
+0567.796 (0) Table wp_mailpoet_subscriber_ips: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=593) in 0.15 seconds
+0567.889 (0) Table wp_mailpoet_subscriber_ips: finishing file(s) (2, 0.4 KB)
+0568.002 (0) Table wp_mailpoet_subscriber_segment: Total expected rows (via COUNT): 2
+0568.094 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0568.201 (0) Table wp_mailpoet_subscriber_segment: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1132) in 0.23 seconds
+0568.355 (0) The time we have been running (568.2) is approaching the resumption interval (598) - increasing resumption interval to 599
+0568.457 (0) Table wp_mailpoet_subscriber_segment: finishing file(s) (2, 0.5 KB)
+0568.611 (0) Table wp_mailpoet_subscriber_tag: Total expected rows (via COUNT): 0
+0568.799 (0) Table wp_mailpoet_subscriber_tag: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=790) in 0.22 seconds
+0568.917 (0) Table wp_mailpoet_subscriber_tag: finishing file(s) (2, 0.4 KB)
+0569.076 (0) Table wp_mailpoet_subscribers: Total expected rows (via COUNT): 2
+0569.099 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0569.156 (0) Table wp_mailpoet_subscribers: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=2908) in 0.11 seconds
+0569.354 (0) The time we have been running (569.3) is approaching the resumption interval (599) - increasing resumption interval to 600
+0569.525 (0) Table wp_mailpoet_subscribers: finishing file(s) (2, 0.9 KB)
+0569.714 (0) Table wp_mailpoet_tags: Total expected rows (via COUNT): 0
+0569.790 (0) Table wp_mailpoet_tags: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=717) in 0.08 seconds
+0569.963 (0) Table wp_mailpoet_tags: finishing file(s) (2, 0.4 KB)
+0570.063 (0) Table wp_mailpoet_user_agents: Total expected rows (via COUNT): 0
+0570.100 (0) Table wp_mailpoet_user_agents: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=757) in 0.04 seconds
+0570.188 (0) The time we have been running (570.1) is approaching the resumption interval (600) - increasing resumption interval to 601
+0570.290 (0) Table wp_mailpoet_user_agents: finishing file(s) (2, 0.4 KB)
+0570.429 (0) Table wp_mailpoet_user_flags: Total expected rows (via COUNT): 0
+0570.455 (0) Table wp_mailpoet_user_flags: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=809) in 0.03 seconds
+0570.557 (0) Table wp_mailpoet_user_flags: finishing file(s) (2, 0.4 KB)
+0570.656 (0) Table wp_masterslider_options: Total expected rows (via COUNT): 2
+0570.695 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0570.756 (0) Table wp_masterslider_options: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=819) in 0.11 seconds
+0570.879 (0) Table wp_masterslider_options: finishing file(s) (2, 0.5 KB)
+0570.962 (0) Table wp_masterslider_sliders: Total expected rows (via COUNT): 2
+0570.999 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0571.035 (0) Table wp_masterslider_sliders: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=13840) in 0.09 seconds
+0571.155 (0) The time we have been running (571.1) is approaching the resumption interval (601) - increasing resumption interval to 602
+0571.258 (0) Table wp_masterslider_sliders: finishing file(s) (2, 3.3 KB)
+0571.398 (0) Table wp_user_registration_sessions: Total expected rows (approximate): 0
+0571.445 (0) Table wp_user_registration_sessions: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=752) in 0.05 seconds
+0571.567 (0) Table wp_user_registration_sessions: finishing file(s) (2, 0.4 KB)
+0571.755 (0) Table wp_wpforms_tasks_meta: Total expected rows (via COUNT): 4
+0571.777 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0571.823 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (next record: 5): 4 (uncompressed bytes in this segment=973) in 0.09 seconds
+0571.945 (0) Table wp_wpforms_tasks_meta: finishing file(s) (2, 0.5 KB)
+0571.999 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_options.table.tmpr2359.gz (1/54/fopen): adding to final database dump
+0572.039 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_options.table.gz (2/54/fopen): adding to final database dump
+0572.054 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_users.table.tmpr4.gz (3/54/fopen): adding to final database dump
+0572.078 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_users.table.gz (4/54/fopen): adding to final database dump
+0572.099 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_usermeta.table.tmpr61.gz (5/54/fopen): adding to final database dump
+0572.157 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_usermeta.table.gz (6/54/fopen): adding to final database dump
+0572.211 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_actionscheduler_actions.table.tmpr194.gz (7/54/fopen): adding to final database dump
+0572.234 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_actionscheduler_actions.table.gz (8/54/fopen): adding to final database dump
+0572.255 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/54/fopen): adding to final database dump
+0572.279 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_actionscheduler_claims.table.gz (10/54/fopen): adding to final database dump
+0572.311 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_actionscheduler_groups.table.tmpr4.gz (11/54/fopen): adding to final database dump
+0572.334 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_actionscheduler_groups.table.gz (12/54/fopen): adding to final database dump
+0572.355 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_actionscheduler_logs.table.tmpr385.gz (13/54/fopen): adding to final database dump
+0572.379 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_actionscheduler_logs.table.gz (14/54/fopen): adding to final database dump
+0572.411 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_commentmeta.table.tmpr0.gz (15/54/fopen): adding to final database dump
+0572.434 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_commentmeta.table.gz (16/54/fopen): adding to final database dump
+0572.455 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_comments.table.tmpr7.gz (17/54/fopen): adding to final database dump
+0572.479 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_comments.table.gz (18/54/fopen): adding to final database dump
+0572.511 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_links.table.tmpr0.gz (19/54/fopen): adding to final database dump
+0572.546 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_links.table.gz (20/54/fopen): adding to final database dump
+0572.580 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_postmeta.table.tmpr2170.gz (21/54/fopen): adding to final database dump
+0572.629 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_postmeta.table.gz (22/54/fopen): adding to final database dump
+0572.678 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_posts.table.tmpr985.gz (23/54/fopen): adding to final database dump
+0572.715 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_posts.table.gz (24/54/fopen): adding to final database dump
+0572.744 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_term_relationships.table.tmpr100001.gz (25/54/fopen): adding to final database dump
+0572.767 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_term_relationships.table.gz (26/54/fopen): adding to final database dump
+0572.788 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_term_taxonomy.table.tmpr27.gz (27/54/fopen): adding to final database dump
+0572.811 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_term_taxonomy.table.gz (28/54/fopen): adding to final database dump
+0572.833 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_termmeta.table.tmpr0.gz (29/54/fopen): adding to final database dump
+0572.856 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_termmeta.table.gz (30/54/fopen): adding to final database dump
+0572.878 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_terms.table.tmpr27.gz (31/54/fopen): adding to final database dump
+0572.900 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_terms.table.gz (32/54/fopen): adding to final database dump
+0572.921 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_e_events.table.tmpr2.gz (33/54/fopen): adding to final database dump
+0572.944 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_e_events.table.gz (34/54/fopen): adding to final database dump
+0572.966 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_custom_fields.table.tmpr0.gz (35/54/fopen): adding to final database dump
+0573.000 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_custom_fields.table.gz (36/54/fopen): adding to final database dump
+0573.022 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_dynamic_segment_filters.table.tmpr0.gz (37/54/fopen): adding to final database dump
+0573.045 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_dynamic_segment_filters.table.gz (38/54/fopen): adding to final database dump
+0573.078 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_feature_flags.table.tmpr0.gz (39/54/fopen): adding to final database dump
+0573.100 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_feature_flags.table.gz (40/54/fopen): adding to final database dump
+0573.122 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_forms.table.tmpr0.gz (41/54/fopen): adding to final database dump
+0573.145 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_forms.table.gz (42/54/fopen): adding to final database dump
+0573.166 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_log.table.tmpr0.gz (43/54/fopen): adding to final database dump
+0573.189 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_log.table.gz (44/54/fopen): adding to final database dump
+0573.211 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_newsletter_links.table.tmpr0.gz (45/54/fopen): adding to final database dump
+0573.234 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_newsletter_links.table.gz (46/54/fopen): adding to final database dump
+0573.266 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_newsletter_option.table.tmpr0.gz (47/54/fopen): adding to final database dump
+0573.289 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_newsletter_option.table.gz (48/54/fopen): adding to final database dump
+0573.311 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_newsletter_option_fields.table.tmpr25.gz (49/54/fopen): adding to final database dump
+0573.333 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_newsletter_option_fields.table.gz (50/54/fopen): adding to final database dump
+0573.355 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_newsletter_posts.table.tmpr0.gz (51/54/fopen): adding to final database dump
+0573.379 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_newsletter_posts.table.gz (52/54/fopen): adding to final database dump
+0573.410 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_newsletter_segment.table.tmpr0.gz (53/54/fopen): adding to final database dump
+0573.433 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_newsletter_segment.table.gz (54/54/fopen): adding to final database dump
+0573.455 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_newsletter_templates.table.tmpr77.gz (55/54/fopen): adding to final database dump
+0573.519 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_newsletter_templates.table.gz (56/54/fopen): adding to final database dump
+0573.545 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_newsletters.table.tmpr0.gz (57/54/fopen): adding to final database dump
+0573.567 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_newsletters.table.gz (58/54/fopen): adding to final database dump
+0573.599 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_scheduled_task_subscribers.table.tmpr1.gz (59/54/fopen): adding to final database dump
+0573.623 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_scheduled_task_subscribers.table.gz (60/54/fopen): adding to final database dump
+0573.689 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_scheduled_tasks.table.tmpr17.gz (61/54/fopen): adding to final database dump
+0573.723 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_scheduled_tasks.table.gz (62/54/fopen): adding to final database dump
+0573.744 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_segments.table.tmpr4.gz (63/54/fopen): adding to final database dump
+0573.767 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_segments.table.gz (64/54/fopen): adding to final database dump
+0573.788 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_sending_queues.table.tmpr0.gz (65/54/fopen): adding to final database dump
+0573.812 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_sending_queues.table.gz (66/54/fopen): adding to final database dump
+0573.833 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_settings.table.tmpr21.gz (67/54/fopen): adding to final database dump
+0573.856 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_settings.table.gz (68/54/fopen): adding to final database dump
+0573.878 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_statistics_bounces.table.tmpr0.gz (69/54/fopen): adding to final database dump
+0573.900 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_statistics_bounces.table.gz (70/54/fopen): adding to final database dump
+0573.921 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_statistics_clicks.table.tmpr0.gz (71/54/fopen): adding to final database dump
+0573.955 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_statistics_clicks.table.gz (72/54/fopen): adding to final database dump
+0573.977 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_statistics_forms.table.tmpr0.gz (73/54/fopen): adding to final database dump
+0574.000 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_statistics_forms.table.gz (74/54/fopen): adding to final database dump
+0574.021 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_statistics_newsletters.table.tmpr0.gz (75/54/fopen): adding to final database dump
+0574.044 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_statistics_newsletters.table.gz (76/54/fopen): adding to final database dump
+0574.075 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_statistics_opens.table.tmpr0.gz (77/54/fopen): adding to final database dump
+0574.099 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_statistics_opens.table.gz (78/54/fopen): adding to final database dump
+0574.121 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_statistics_unsubscribes.table.tmpr0.gz (79/54/fopen): adding to final database dump
+0574.144 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_statistics_unsubscribes.table.gz (80/54/fopen): adding to final database dump
+0574.165 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_statistics_woocommerce_purchases.table.tmpr0.gz (81/54/fopen): adding to final database dump
+0574.188 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_statistics_woocommerce_purchases.table.gz (82/54/fopen): adding to final database dump
+0574.210 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_stats_notifications.table.tmpr0.gz (83/54/fopen): adding to final database dump
+0574.233 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_stats_notifications.table.gz (84/54/fopen): adding to final database dump
+0574.266 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_subscriber_custom_field.table.tmpr0.gz (85/54/fopen): adding to final database dump
+0574.289 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_subscriber_custom_field.table.gz (86/54/fopen): adding to final database dump
+0574.311 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_subscriber_ips.table.tmpr1.gz (87/54/fopen): adding to final database dump
+0574.333 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_subscriber_ips.table.gz (88/54/fopen): adding to final database dump
+0574.355 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_subscriber_segment.table.tmpr3.gz (89/54/fopen): adding to final database dump
+0574.379 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_subscriber_segment.table.gz (90/54/fopen): adding to final database dump
+0574.411 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_subscriber_tag.table.tmpr0.gz (91/54/fopen): adding to final database dump
+0574.433 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_subscriber_tag.table.gz (92/54/fopen): adding to final database dump
+0574.455 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_subscribers.table.tmpr3.gz (93/54/fopen): adding to final database dump
+0574.489 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_subscribers.table.gz (94/54/fopen): adding to final database dump
+0574.511 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_tags.table.tmpr0.gz (95/54/fopen): adding to final database dump
+0574.534 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_tags.table.gz (96/54/fopen): adding to final database dump
+0574.555 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_user_agents.table.tmpr0.gz (97/54/fopen): adding to final database dump
+0574.579 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_user_agents.table.gz (98/54/fopen): adding to final database dump
+0574.611 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_user_flags.table.tmpr0.gz (99/54/fopen): adding to final database dump
+0574.754 (0) The time we have been running (574.6) is approaching the resumption interval (602) - increasing resumption interval to 605
+0574.892 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_mailpoet_user_flags.table.gz (100/54/fopen): adding to final database dump
+0574.933 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_masterslider_options.table.tmpr3.gz (101/54/fopen): adding to final database dump
+0574.955 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_masterslider_options.table.gz (102/54/fopen): adding to final database dump
+0574.978 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_masterslider_sliders.table.tmpr3.gz (103/54/fopen): adding to final database dump
+0574.999 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_masterslider_sliders.table.gz (104/54/fopen): adding to final database dump
+0575.022 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_user_registration_sessions.table.tmpr1.gz (105/54/fopen): adding to final database dump
+0575.046 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_user_registration_sessions.table.gz (106/54/fopen): adding to final database dump
+0575.079 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_wpforms_tasks_meta.table.tmpr6.gz (107/54/fopen): adding to final database dump
+0575.113 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db-table-wp_wpforms_tasks_meta.table.gz (108/54/fopen): adding to final database dump
+0575.334 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db.gz: finished writing out complete database file (432 KB)
+0575.521 (0) Total database tables backed up: 54 (backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db.gz, size: 442521, sha1: 489642311d244f9a3ccd39fcafa878474599ccf1, sha256: 8b965a1873b11a44a9c50cade537187814b7b49d5e7819416b05c4ef411a6e8a)
+0575.632 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-plugins.zip: plugins: This file has already been successfully uploaded
+0575.666 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-themes.zip: themes: This file has already been successfully uploaded
+0575.721 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-uploads.zip: uploads: This file has already been successfully uploaded
+0575.755 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-others.zip: others: This file has already been successfully uploaded
+0575.776 (0) backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db.gz: db: This file has not yet been successfully uploaded: will queue
+0575.799 (0) Saving backup history. Total backup size: 177.8 MB
+0575.844 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0575.999 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0576.033 (0) No remote despatch: user chose no remote backup service
+0576.054 (0) Recording as successfully uploaded: backup_2022-08-29-0854_Association_de_pche_sportive_d5d74d0c04ea-db.gz
+0576.133 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0576.155 (0) Number of backup sets in history: 2; groups (db): 1
+0576.188 (0) Examining (for databases) backup set with group_id=0, nonce=d5d74d0c04ea, datestamp=1661763283 (Aug 29 2022 08:54:43)
+0576.257 (0) This backup set is the backup set just made, so will not be deleted.
+0576.257 (0) Examining (for databases) backup set with group_id=0, nonce=4901937597dc, datestamp=1661713363 (Aug 28 2022 19:02:43)
+0576.257 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0576.290 (0) Number of backup sets in history: 2; groups (files): 1
+0576.334 (0) Examining (for files) backup set with nonce=d5d74d0c04ea, datestamp=1661763283 (Aug 29 2022 08:54:43)
+0576.334 (0) This backup set is the backup set just made, so will not be deleted.
+0576.355 (0) This backup set is the backup set just made, so will not be deleted.
+0576.356 (0) This backup set is the backup set just made, so will not be deleted.
+0576.356 (0) This backup set is the backup set just made, so will not be deleted.
+0576.356 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0576.377 (0) Examining (for files) backup set with nonce=4901937597dc, datestamp=1661713363 (Aug 28 2022 19:02:43)
+0576.377 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0576.378 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0576.432 (0) Resume backup (d5d74d0c04ea, 0): finish run
+0576.511 (0) Decremented the semaphore (fd) by 1
+0576.611 (0) Semaphore (fd) unlocked
+0576.632 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0576.755 (0) No email will/can be sent - the user has not configured an email address.
+0576.777 (0) The backup apparently succeeded and is now complete
